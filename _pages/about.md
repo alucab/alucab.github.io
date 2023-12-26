@@ -45,5 +45,5 @@ Hopefully, this will help to understand a bit better your vulnerability posture.
 This project is a work in progress. 
 Expect more features and enhancements in the future to further augment its functionality and utility.
 
-For questions or ideas send me a message here in Github or find me on LinkedIn [Luca Barba (alucab)](https://www.linkedin.com/in/alucab)
+For questions or ideas send me a message in [Github](https://github.com/alucab/vulnerabilitysheets) or find me on [LinkedIn](https://www.linkedin.com/in/alucab)
 
