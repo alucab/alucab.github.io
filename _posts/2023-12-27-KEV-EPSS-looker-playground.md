@@ -4,7 +4,7 @@ title: Exploring Cybersecurity Insights with Google Looker Studio's KEV & EPSS P
 categories: [KEV,EPSS,Looker,CVE]
 author: alucab
 excerpt: Explore an interactive Google Looker Studio dashboard merging cybersecurity insights from CISA KEV (Cybersecurity and Infrastructure Security Agency's Known Exploited Vulnerabilities) and EPSS (Exploit Prediction Scoring System) scores.
-image: [MAIN_IMG]
+image: /images/2023-12-27-KEV-EPSS-looker-playground.PNG
 ---
 
 ## Overview
