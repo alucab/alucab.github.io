@@ -11,7 +11,8 @@ image: [CISA_IMG]
 
 ## Understanding CISA KEV Catalog
 
-The CISA Known Exploited Vulnerabilities (KEV) Catalog stands as a critical resource curated by the Cybersecurity and Infrastructure Security Agency (CISA) to aid in identifying vulnerabilities actively exploited by cybercriminals. It combines automated scanning, manual monitoring, and collaboration with industry experts to compile a list of vulnerabilities exploited in recent attacks.
+The CISA Known Exploited Vulnerabilities (KEV) Catalog stands as a critical resource curated by the Cybersecurity and Infrastructure Security Agency (CISA) to aid in identifying vulnerabilities actively exploited by cybercriminals. 
+If you don't know anything about it got to my [CISA KEV Introduction](/_posts/2023-12-25-CISA-KEV-introduction.md)
 
 ## CISA KEV Google Spreadsheet
 
