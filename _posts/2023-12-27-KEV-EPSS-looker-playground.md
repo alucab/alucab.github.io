@@ -13,6 +13,14 @@ This interactive dashboard consolidates essential cybersecurity insights from tw
 - CISA KEV Catalog
 - EPSS Scores Database
 
+The dashboard uses internal data sources from Google spreadsheets, ensuring up-to-date information without manual CSV file imports. The continuous updates to EPSS scores add ongoing value. Data sources are refreshed every 24 hours to maintain relevance.
+
+
+
+<div style="text-align: center"> 
+<iframe src="https://lookerstudio.google.com/embed/reporting/cb1300d3-b1fd-4e6d-8e38-cae516aff15d/page/sPPB"  width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+
 ### How to Use It
 
 Using the dashboard is straightforward. Simply interact with the various filters and views to analyze vulnerabilities. Understand the correlation between KEV and EPSS scores, gaining insights into your vulnerability landscape.
@@ -41,17 +49,6 @@ Comparing vulnerabilities based on their CISA KEV status and EPSS scores allows 
 
 
 
-## Powered by Google Looker Studio
 
-This dashboard utilizes internal data sources from Google spreadsheets, ensuring up-to-date information without manual CSV file imports. The continuous updates to EPSS scores add ongoing value. Data sources are refreshed every 24 hours to maintain relevance.
-
-
-
-<div style="text-align: center"> 
-<iframe src="https://lookerstudio.google.com/embed/reporting/cb1300d3-b1fd-4e6d-8e38-cae516aff15d/page/sPPB"  width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-
-## Feedback
-For questions or ideas send me a message in [Github](https://github.com/alucab/vulnerabilitysheets) or find me on [LinkedIn](https://www.linkedin.com/in/alucab)
 
 [MAIN_IMG]: /images/2023-12-27-KEV-EPSS-looker-playground.PNG
