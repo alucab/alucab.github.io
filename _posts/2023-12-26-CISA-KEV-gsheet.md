@@ -1,8 +1,8 @@
 ---
 layout: post
-title: CISA KEV & Google Spreadsheet
+title: CISA KEV Google Spreadsheet
 categories: [KEV,Vulnerabilities,GSheet]
-excerpt: I've developed a Google Spreadsheet directly sourced from the CISA KEV Catalog, updated automatically every 24 hours. It's a data source without any elaborations to allow direct analysis. 
+excerpt: I've developed a Google Spreadsheet directly sourced from the CISA KEV Catalog, updated automatically every 24 hours. It's a data source with minimal elaboration to allow direct analysis. 
 author: alucab
 image: [CISA_IMG]
 ---
