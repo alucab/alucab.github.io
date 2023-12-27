@@ -35,12 +35,6 @@ Hopefully, this will help to understand a bit better your vulnerability posture.
 - RSS Feed
 - In-built sitemap
 
-
-## Resources
-
-- [EPSS (Exploit Prediction Scoring System)](https://www.first.org/epss/data_stats)
-- [CISA KEV (Cybersecurity and Infrastructure Security Agency's Known Exploited Vulnerabilities)](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-
 ## Warning - Work in Progress
 This project is a work in progress. 
 Expect more features and enhancements in the future to further augment its functionality and utility.
