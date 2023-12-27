@@ -47,7 +47,13 @@ The dashboard could enable trend analysis by tracking changes in EPSS scores ove
 
 Comparing vulnerabilities based on their CISA KEV status and EPSS scores allows for benchmarking against industry standards. Identifying discrepancies between severity and exploit likelihood reveals areas where traditional severity ratings might not align with real-world exploit probabilities. This analysis helps refine risk assessment methodologies and improve decision-making for vulnerability remediation strategies.
 
+## Resource Links
 
+- [Official CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/resources-tools/resources/kev-catalog)
+- [CISA KEV Spreadsheet (Updated Daily)][CISA_GSHEET]
+
+## Feedback
+For questions or ideas send me a message in [Github](https://github.com/alucab/vulnerabilitysheets) or find me on [LinkedIn](https://www.linkedin.com/in/alucab)
 
 
 
