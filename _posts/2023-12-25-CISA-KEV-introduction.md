@@ -3,9 +3,9 @@ layout: post
 title: CISA KEV Introduction
 permalink: /cisa-kev-introduction/
 categories: [KEV,CVE,Start]
-excerpt: Understanding CISA Known Exploited Vulnerabilities (KEV) Catalog, it's impact and structure 
+
 author: alucab
-image: /images/cisa.webp
+
 ---
 
 ![][CISA_IMG]

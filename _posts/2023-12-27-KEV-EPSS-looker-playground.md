@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring Cybersecurity Insights with Google Looker Studio's KEV & EPSS Playground
+title: CVE Insights with Google Looker Studio's KEV & EPSS Playground
 categories: [KEV,EPSS,Looker,CVE]
 author: alucab
 excerpt: Explore an interactive Google Looker Studio dashboard merging cybersecurity insights from CISA KEV (Cybersecurity and Infrastructure Security Agency's Known Exploited Vulnerabilities) and EPSS (Exploit Prediction Scoring System) scores.
@@ -15,11 +15,9 @@ This interactive dashboard consolidates essential cybersecurity insights from tw
 
 The dashboard uses internal data sources from Google spreadsheets, ensuring up-to-date information without manual CSV file imports. The continuous updates to EPSS scores add ongoing value. Data sources are refreshed every 24 hours to maintain relevance.
 
+{% include embed.html url="https://lookerstudio.google.com/embed/reporting/cb1300d3-b1fd-4e6d-8e38-cae516aff15d/page/sPPB" %}
 
 
-<div style="text-align: center"> 
-<iframe src="https://lookerstudio.google.com/embed/reporting/cb1300d3-b1fd-4e6d-8e38-cae516aff15d/page/sPPB"  width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
 
 ### How to Use It
 
@@ -58,3 +56,4 @@ For questions or ideas send me a message in [Github](https://github.com/alucab/v
 
 
 [MAIN_IMG]: /images/2023-12-27-KEV-EPSS-looker-playground.PNG
+[CISA_GSHEET]: https://docs.google.com/spreadsheets/d/1Wk--S5xrii8-7QJsapKlqMfWYk7xPOzfnLDQc1msR4o/edit?usp=sharing

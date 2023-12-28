@@ -1,50 +1,31 @@
-#
-# This file contains configuration flags to customize your site
-#
+title: "Security Wanderings"
+author: "Luca Barba"
+description: "And I assure you there is a mark on the door."
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
-# Name of your site (displayed in the header)
-name: Security Wanderings
+# Layout
 
-# Name of the author
-author: Luca Barba
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
 
-# Short bio or description (displayed in the header)
-description: And I assure you there is a mark on the door.
+# Menu
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/rune.jpg
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
+  - {file: "about.md"}
+  - {file: "archive.html"}
+  - {file: "categories.md"}
 
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: alucab@alucab.org
-  facebook:
-  flickr:
-  github: alucab
-  instagram:
-  linkedin: alucab
-  pinterest:
-  rss: rss
-  twitter: alucab
-  stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
-  mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: 
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: #UA-43339302-11
-
-# For newer "GA4" analytics, use the following instead of the "UA" entry above
-#google_analytics_ga4: G-GABC1DEFG
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:alucab@alucab.org"}
+  - {title: Github, icon: github, url: "https://github.com/alucab"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/alucab"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
@@ -57,14 +38,9 @@ enforce_ssl: https://alucab.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-permalink: /:title/
-
-# The release of Jekyll Now that you're using
-version: v1.2.0
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
@@ -76,11 +52,6 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
@@ -89,15 +60,13 @@ plugins:
 
 include: ['_pages']
 
-paginate: 6
+paginate: 5
 paginate_path: /page:num/
 
-# Exclude these files from your production _site
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README.md
   - CNAME
   - old
-
