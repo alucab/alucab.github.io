@@ -20,9 +20,11 @@ I've developed a [CISA KEV Spreadsheet][CISA_GSHEET] directly sourced from the C
 
 Here a sample
 
-<div style="text-align: center"> 
+{% include embed.html url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2rjzP8U9wgDcgP-HEsag9E1Gz3QG2ED8OGioPMnVuCjvwm8pGhsdapgsfadO0JO3xYdcUa6kEa61t/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" %}
+
+<!--div style="text-align: center"> 
 <iframe frameborder="0" width="100%" height="500px" scrolling="no" allowfullscreen src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2rjzP8U9wgDcgP-HEsag9E1Gz3QG2ED8OGioPMnVuCjvwm8pGhsdapgsfadO0JO3xYdcUa6kEa61t/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-</div>
+</div-->
 
 This easily accessible resource provides several benefits:
 
