@@ -2,7 +2,7 @@
 layout: post
 title: CISA KEV Google Spreadsheet
 categories: [KEV,CVE,GSheet]
-excerpt: A Google Spreadsheet directly sourced from the CISA KEV Catalog, updated automatically every 24 hours. It's a data source with minimal elaboration to allow direct analysis.
+excerpt: A Google Spreadsheet directly sourced from the CISA KEV Catalog, updated automatically every 7 days. It's a data source with minimal elaboration to allow direct analysis.
 author: alucab
 image: /images/cisa.webp
 ---
@@ -20,7 +20,7 @@ I've developed a [CISA KEV Spreadsheet][CISA_GSHEET] directly sourced from the C
 
 Here a sample
 
-{% include embed.html url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2rjzP8U9wgDcgP-HEsag9E1Gz3QG2ED8OGioPMnVuCjvwm8pGhsdapgsfadO0JO3xYdcUa6kEa61t/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" %}
+{% include embed.html url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIptoHe4SI5-Ly9lAa-Y5WV12-CUajaimWkD1-kX87yc6-eMgrvYDJXyn7ZiY7h7uYnGP7Pq8iOW4k/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" %}
 
 <!--div style="text-align: center"> 
 <iframe frameborder="0" width="100%" height="500px" scrolling="no" allowfullscreen src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2rjzP8U9wgDcgP-HEsag9E1Gz3QG2ED8OGioPMnVuCjvwm8pGhsdapgsfadO0JO3xYdcUa6kEa61t/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
@@ -42,7 +42,7 @@ Utilizing and maintaining access to a continuously updated spreadsheet derived f
 ## Resource Links
 
 - [Official CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/resources-tools/resources/kev-catalog)
-- [CISA KEV Spreadsheet (Updated Daily)][CISA_GSHEET]
+- [CISA KEV Spreadsheet (Updated Weekly)][CISA_GSHEET]
 
 ## Feedback
 For questions or ideas send me a message in [Github](https://github.com/alucab/vulnerabilitysheets) or find me on [LinkedIn](https://www.linkedin.com/in/alucab)

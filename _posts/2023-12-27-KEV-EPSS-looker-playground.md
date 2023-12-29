@@ -48,6 +48,7 @@ Comparing vulnerabilities based on their CISA KEV status and EPSS scores allows 
 ## Resource Links
 
 - [Official CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/resources-tools/resources/kev-catalog)
+- [KEV-EPSS Looker Dashboard](https://lookerstudio.google.com/reporting/cb1300d3-b1fd-4e6d-8e38-cae516aff15d)
 - [CISA KEV Spreadsheet (Updated Daily)][CISA_GSHEET]
 
 ## Feedback
