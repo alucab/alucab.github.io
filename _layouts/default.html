@@ -29,7 +29,22 @@
 {% endif %}
 
 <header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+  <!--a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a-->
+  <a href="{{ "/" | relative_url }}" class="title" style="
+    height: 2em;
+">
+<img src="/images/rune.png" style="
+    float: left;
+    height: 80px;
+    margin-top: -1.1em;
+    margin-left: -1em;
+">
+<div style="
+    white-space: nowrap;
+    margin-top: 0.2em;
+    margin-left: -1em;
+    float: left;
+">{{ site.title | escape }}</div></a>
   {% include menu.html menu=pages %}
 </header>
 
