@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CISA KEV Google Spreadsheet
-categories: [KEV,CVE,GSheet]
+categories: [CVE,GSheet]
 excerpt: A Google Spreadsheet directly sourced from the CISA KEV Catalog, updated automatically every 7 days. It's a data source with minimal elaboration to allow direct analysis.
 author: alucab
 image: /images/cisa.webp

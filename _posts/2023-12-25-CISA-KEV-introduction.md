@@ -2,7 +2,7 @@
 layout: post
 title: CISA KEV Introduction
 permalink: /cisa-kev-introduction/
-categories: [KEV,CVE,Start]
+categories: [CVE,Start]
 
 author: alucab
 
