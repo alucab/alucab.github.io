@@ -8,9 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: wow-actions/download-upload@v1
+      - name: Fetch data
+        uses: githubocto/flat@v3
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2rjzP8U9wgDcgP-HEsag9E1Gz3QG2ED8OGioPMnVuCjvwm8pGhsdapgsfadO0JO3xYdcUa6kEa61t/pub?gid=121766048&single=true&output=csv
-          dir: _data
-          filename: NVDKEVEPSS.csv
+            http_url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7KW2U7o4zh2Sh5qpTl42OQzbKZG-glDd3rVcXhvQ1MtXTQiitvGEV6xvkfrXAn1dYADV1qLc2CEC/pub?output=csv' 
+            downloaded_filename: google-sheet.csv
