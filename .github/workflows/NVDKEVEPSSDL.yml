@@ -1,15 +1,26 @@
 name: Update NVDKEVEPSSDL
+
 on:
   push:
-    branches:
-      - master
+    paths:
+      - .github/workflows/NVDKEVEPSSDL.yml # Only run a new workflow every time this file (flat.yaml) file changes
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 1 * *' # Run once a month
+    
 jobs:
-  run:
+  scheduled:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Fetch data
-        uses: githubocto/flat@v3
-        with:
-            http_url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2rjzP8U9wgDcgP-HEsag9E1Gz3QG2ED8OGioPMnVuCjvwm8pGhsdapgsfadO0JO3xYdcUa6kEa61t/pub?output=csv' 
-            downloaded_filename: google-sheet.csv
+    - name: Setup deno
+      uses: denoland/setup-deno@main
+      with:
+        deno-version: v1.x
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Fetch data
+      uses: githubocto/flat@v3
+      with:
+        http_url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2rjzP8U9wgDcgP-HEsag9E1Gz3QG2ED8OGioPMnVuCjvwm8pGhsdapgsfadO0JO3xYdcUa6kEa61t/pub?output=csv' 
+        downloaded_filename: google-sheet.csv
+
