@@ -63,6 +63,8 @@ include: ['_pages']
 paginate: 5
 paginate_path: /page:num/
 
+feed:
+  excerpt_only: true
 
 exclude:
   - Gemfile
