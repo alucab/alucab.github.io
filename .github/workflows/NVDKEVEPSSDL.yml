@@ -1,0 +1,16 @@
+name: Update NVDKEVEPSSDL
+on:
+  push:
+    branches:
+      - master
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: wow-actions/download-upload@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2rjzP8U9wgDcgP-HEsag9E1Gz3QG2ED8OGioPMnVuCjvwm8pGhsdapgsfadO0JO3xYdcUa6kEa61t/pub?gid=121766048&single=true&output=csv
+          dir: _data
+          filename: NVDKEVEPSS.csv
