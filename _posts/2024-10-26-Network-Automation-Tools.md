@@ -14,23 +14,38 @@ Network automation and NetSecDevOps bring efficiency, agility, and security to n
 
 This article provides a curated list of links and resources designed to help you explore key topics in network automation and NetSecDevOps. These resources offer valuable insights, practical guides, and best practices to deepen your understanding of automation tools, methodologies, and security-focused DevOps approaches. By utilizing these links, you’ll gain access to a variety of expert perspectives, tutorials, and frameworks that support streamlined network management, enhanced security practices, and seamless integration across development, security, and operations teams.
 
+## First and Foremost
+- https://github.com/networktocode/awesome-network-automation
+- https://github.com/nyquist/awesome-networking
+  
 ## Informative Pages
 
 - [PyNet - Network Automation Training](https://pynet.twb-tech.com)
 - [GNS Training](https://gns3.teachable.com/courses/314250/lectures/4839674)
+- [Another training](https://encartalabs.com/cpl/python-network-automation-training-course.php)
 - https://networklore.com/napalm-introduction/
 - https://www.techtarget.com/searchnetworking/tip/Network-automation-with-Python-Paramiko-Netmiko-and-NAPALM
 - https://blog.apnic.net/2023/02/13/automation-tools-paramiko-netmiko-napalm-ansible-nornir-or/
 - https://napalm.readthedocs.io/en/latest/index.html
 - https://www.packetcoders.io/automating-firewall-acls-with-aerleon/
-- https://networklore.com/napalm-introduction/
-- 
-- 
+- https://networklore.com/napalm-introduction
+- https://philipcripps3.wordpress.com/napalm-network-automation/
+- https://www.linkedin.com/advice/0/how-can-you-increase-network-security-lan-switch-tmmve
+- https://juliopdx.com/2021/02/27/network-validation-with-nornir-napalm/
+- https://netboxlabs.com/blog/open-source-network-automation/
+- https://www.cbtnuggets.com/blog/technology/networking/5-top-free-python-libraries-for-network-automation
+  
+## Companies
+- https://networktocode.com/
+- https://netboxlabs.com/
+  
 ## YouTube Videos
+- https://www.youtube.com/watch?v=s47UdDXMkfc
 - https://www.youtube.com/watch?v=3uIk0WQLHZk
 - https://www.youtube.com/watch?v=3uIk0WQLHZk
 - https://www.youtube.com/watch?v=NHEusQfBgHw
 - https://www.youtube.com/watch?v=XhPAVqWw4dU
+- https://www.youtube.com/watch?v=SmNoxFaLwaM
 
 
 ## Great GitHub Projects
