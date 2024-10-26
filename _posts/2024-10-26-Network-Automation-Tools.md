@@ -16,7 +16,11 @@ This article provides a curated list of links and resources designed to help you
 
 ## Informative Pages
 
-- [Network Automation Training](https://pynet.twb-tech.com)
+- [PyNet - Network Automation Training](https://pynet.twb-tech.com)
+
+## Great GitHub Projects
+- https://github.com/ktbyers/netmiko
+- 
 
 ## Feedback
 For questions or ideas send me a message in [Github](https://github.com/alucab/vulnerabilitysheets) or find me on [LinkedIn](https://www.linkedin.com/in/alucab)
