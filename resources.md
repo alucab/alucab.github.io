@@ -3,7 +3,9 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-
+## Fantastic Links
+- https://git.hackliberty.org/Awesome-Mirrors
+  
 ## Authoritative Sources
 
 - [EPSS (Exploit Prediction Scoring System)](https://www.first.org/epss/data_stats)
