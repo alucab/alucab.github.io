@@ -16,7 +16,7 @@ This article provides a curated list of links and resources designed to help you
 
 ## Informative Pages
 
-- [Official CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/resources-tools/resources/kev-catalog)
+- [Network Automation Training](https://pynet.twb-tech.com)
 
 ## Feedback
 For questions or ideas send me a message in [Github](https://github.com/alucab/vulnerabilitysheets) or find me on [LinkedIn](https://www.linkedin.com/in/alucab)
