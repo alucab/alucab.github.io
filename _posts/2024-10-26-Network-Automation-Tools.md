@@ -17,6 +17,9 @@ This article provides a curated list of links and resources designed to help you
 ## First and Foremost
 - https://github.com/networktocode/awesome-network-automation
 - https://github.com/nyquist/awesome-networking
+- https://github.com/netbox-community/netbox
+- https://github.com/ktbyers/netmiko
+- https://github.com/napalm-automation/napalm
   
 ## Informative Pages
 
@@ -34,6 +37,11 @@ This article provides a curated list of links and resources designed to help you
 - https://juliopdx.com/2021/02/27/network-validation-with-nornir-napalm/
 - https://netboxlabs.com/blog/open-source-network-automation/
 - https://www.cbtnuggets.com/blog/technology/networking/5-top-free-python-libraries-for-network-automation
+- https://github.com/PacktPublishing/Network-Automation-with-Go
+- https://github.com/PacktPublishing/Practical-Network-Automation-Second-Edition
+- https://github.com/PacktPublishing/Network-Automation-Cookbook
+- https://github.com/twr14152/Network-Automation-Scripts_Python3
+- 
   
 ## Companies
 - https://networktocode.com/
@@ -49,13 +57,18 @@ This article provides a curated list of links and resources designed to help you
 
 
 ## Great GitHub Projects
-- https://github.com/ktbyers/netmiko
+
 - https://github.com/nornir-automation/nornir
 - https://github.com/reillychase/Simple-Netmiko-Threading-Example
 - https://github.com/eNMS-automation/eNMS
 - https://github.com/napalm-automation/napalm-salt
 - https://github.com/cldrn
-- https://github.com/napalm-automation/napalm 
+- https://github.com/rogerperkin/network-programmability
+- https://github.com/olasupo/bubbln_network-automation
+- https://github.com/udemy-course/ansible-for-network-automation
+- https://github.com/cober2019/Network-Automation
+- https://github.com/grelleum/youtube-network-automation
+- 
 
 ## Feedback
 For questions or ideas send me a message in [Github](https://github.com/alucab/vulnerabilitysheets) or find me on [LinkedIn](https://www.linkedin.com/in/alucab)
