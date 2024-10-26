@@ -16,10 +16,6 @@ This article provides a curated list of links and resources designed to help you
 
 ## First and Foremost
 - https://github.com/networktocode/awesome-network-automation
-- https://github.com/nyquist/awesome-networking
-- https://github.com/netbox-community/netbox
-- https://github.com/ktbyers/netmiko
-- https://github.com/napalm-automation/napalm
   
 ## Informative Pages
 
@@ -68,7 +64,17 @@ This article provides a curated list of links and resources designed to help you
 - https://github.com/udemy-course/ansible-for-network-automation
 - https://github.com/cober2019/Network-Automation
 - https://github.com/grelleum/youtube-network-automation
-- 
+- https://github.com/network-evolution/Python_for_Network_Engineers
+- https://github.com/nyquist/awesome-networking
+- https://github.com/netbox-community/netbox
+- https://github.com/ktbyers/netmiko
+- https://github.com/napalm-automation/napalm
+- https://github.com/topics/network-automation
+- https://github.com/srl-labs/containerlab
+- https://github.com/batfish/batfish
+- https://github.com/trigger/trigger
+- https://github.com/nautobot/nautobot
+  
 
 ## Feedback
 For questions or ideas send me a message in [Github](https://github.com/alucab/vulnerabilitysheets) or find me on [LinkedIn](https://www.linkedin.com/in/alucab)
