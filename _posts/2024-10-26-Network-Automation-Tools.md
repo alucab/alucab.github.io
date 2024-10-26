@@ -17,9 +17,28 @@ This article provides a curated list of links and resources designed to help you
 ## Informative Pages
 
 - [PyNet - Network Automation Training](https://pynet.twb-tech.com)
+- [GNS Training](https://gns3.teachable.com/courses/314250/lectures/4839674)
+- https://networklore.com/napalm-introduction/
+- https://www.techtarget.com/searchnetworking/tip/Network-automation-with-Python-Paramiko-Netmiko-and-NAPALM
+- https://blog.apnic.net/2023/02/13/automation-tools-paramiko-netmiko-napalm-ansible-nornir-or/
+- https://napalm.readthedocs.io/en/latest/index.html
+- https://www.packetcoders.io/automating-firewall-acls-with-aerleon/
+- https://networklore.com/napalm-introduction/
+- 
+- 
+## YouTube Videos
+- https://www.youtube.com/watch?v=3uIk0WQLHZk
+- https://www.youtube.com/watch?v=3uIk0WQLHZk
+- https://www.youtube.com/watch?v=NHEusQfBgHw
+- https://www.youtube.com/watch?v=XhPAVqWw4dU
+
 
 ## Great GitHub Projects
 - https://github.com/ktbyers/netmiko
+- https://github.com/nornir-automation/nornir
+- https://github.com/reillychase/Simple-Netmiko-Threading-Example
+- https://github.com/eNMS-automation/eNMS
+- https://github.com/napalm-automation/napalm-salt
 - 
 
 ## Feedback
