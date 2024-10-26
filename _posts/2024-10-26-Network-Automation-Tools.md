@@ -54,7 +54,8 @@ This article provides a curated list of links and resources designed to help you
 - https://github.com/reillychase/Simple-Netmiko-Threading-Example
 - https://github.com/eNMS-automation/eNMS
 - https://github.com/napalm-automation/napalm-salt
-- 
+- https://github.com/cldrn
+- https://github.com/napalm-automation/napalm 
 
 ## Feedback
 For questions or ideas send me a message in [Github](https://github.com/alucab/vulnerabilitysheets) or find me on [LinkedIn](https://www.linkedin.com/in/alucab)
