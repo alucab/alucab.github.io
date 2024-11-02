@@ -18,6 +18,7 @@ The following information is gathered by the tool: Forest; Domain; Trusts; Sites
 - https://github.com/aikoncwd/vbs-ad-health-report
 - https://github.com/lefayjey/linWinPwn
 - https://github.com/S3cur3Th1sSh1t/WinPwn
+- https://github.com/lazywinadmin
 
 ## Cheat Sheets & Workflows
 
@@ -27,6 +28,8 @@ The following information is gathered by the tool: Forest; Domain; Trusts; Sites
 ## Commercial Projects
 ### [PingCastle](https://www.pingcastle.com)
 De Facto standard for AD Security Hardening
+### [Lan Sweeper](https://www.lansweeper.com/product/features/it-network-discovery/active-directory-scanner/)
+Lan Sweeper
 
 ## Articles 
 - [Linux Machines in Active Directory](https://blog.workinghardinit.work/2021/05/04/linux-ad-computer-object-operating-system-values/)
