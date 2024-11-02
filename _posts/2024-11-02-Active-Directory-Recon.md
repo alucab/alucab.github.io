@@ -3,6 +3,7 @@ layout: post
 title: Active Directory Reconnaisance
 categories: [Automation,Recon,]
 author: alucab
+excerpt: A compilation of resources related to Active Directory reconnaisance & security
 ---
 
 ## Overview
