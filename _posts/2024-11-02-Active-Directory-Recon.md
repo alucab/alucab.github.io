@@ -8,6 +8,7 @@ image: https://www.windowserver.it/wp-content/uploads/2018/05/hero_activedirecto
 ---
 
 ## Overview
+![][https://www.windowserver.it/wp-content/uploads/2018/05/hero_activedirectory-1024x576.jpg]
 
 ## Tools
 ### [ADRecon](https://github.com/sense-of-security/ADRecon)
