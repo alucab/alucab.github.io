@@ -4,6 +4,7 @@ title: Active Directory Reconnaisance
 categories: [Automation,Recon,]
 author: alucab
 excerpt: A compilation of resources related to Active Directory reconnaisance & security
+image: https://www.windowserver.it/wp-content/uploads/2018/05/hero_activedirectory-1024x576.jpg
 ---
 
 ## Overview
