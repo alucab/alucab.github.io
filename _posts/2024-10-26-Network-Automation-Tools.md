@@ -3,6 +3,7 @@ layout: post
 title: Network Automation Resources and Links
 categories: [Automation,Networking]
 author: alucab
+excerpt: A compilation of resources related to Network Automation & Programming
 ---
 
 ## Overview
