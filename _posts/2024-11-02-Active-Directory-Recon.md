@@ -37,6 +37,7 @@ The following information is gathered by the tool: Forest; Domain; Trusts; Sites
 - https://github.com/scriptrunner/ActionPacks
 - https://github.com/InfosecMatter/Minimalistic-offensive-security-tools
 - https://github.com/lkarlslund/Adalanche
+- https://github.com/wikijm/PowerShell-AdminScripts
 
 ## Cheat Sheets & Workflows
 
